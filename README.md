@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,im a self taught developer looking to get into cybersecurity
 
 <!--
 **Rand-all/Rand-all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
