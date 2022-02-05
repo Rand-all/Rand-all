@@ -1,4 +1,4 @@
-### Hi there,im a self taught developer looking to get into cybersecurity
+(https://github-readme-stats.vercel.app/api?username=Rand-all)](https://github.com/Rand-all/github-readme-stats)
 
 <!--
 **Rand-all/Rand-all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
